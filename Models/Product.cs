@@ -10,13 +10,11 @@ namespace PizzaStore.Models
     {
         public long ProductId { get; set; }
         public string Name { get; set; }
-        public string Description { get; set; }
-
-        [Column(TypeName = "decimal(8,2)")]
-        public decimal Price { get; set; }        
+        public string Description { get; set; }          
         public string Img { get; set; }
-        public string Category { get; set; }     
-        public virtual ICollection<Size> Sizes { get; set; }        
-
+        public string Category { get; set; }
+        public int? Sizeid { get; set; }
+        public virtual Size Size { get; set; }
+       
     }
 }
