@@ -13,16 +13,8 @@ namespace PizzaStore.Models
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Size> Sizes { get; set; }
-
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-         
-            modelBuilder.Entity<Product>()
-                .HasRequired<Size>(s => s.CurrentGrade)
-                .WithMany(g => g.Products)
-                .HasForeignKey<int>(s => s.CurrentGradeId);
-        }
+        public DbSet<ProductSize> ProductSizes { get; set; }
     }
 }
-}
+
    

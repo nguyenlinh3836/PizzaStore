@@ -11,8 +11,7 @@ namespace PizzaStore.Models
         public int SizeId { get; set; }
         public string Name { get; set; }
 
-        [Column(TypeName = "decimal(8,2)")]
-        public decimal Price { get; set; }
+      
         public long ProductId { get; set; }
         public virtual ICollection<Product> Products { get; set; }
     }

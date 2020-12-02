@@ -14,7 +14,7 @@ namespace PizzaStore.Models
         public string Img { get; set; }
         public string Category { get; set; }
         public int? Sizeid { get; set; }
-        public virtual Size Size { get; set; }
-       
+        public virtual ICollection<Size> Sizes { get; set; }
+
     }
 }
