@@ -66,3 +66,10 @@ C:\Users\LEGION\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\Pizza
 C:\Users\LEGION\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CopyComplete
 C:\Users\LEGION\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\staticwebassets\PizzaStore.StaticWebAssets.Manifest.cache
 C:\Users\LEGION\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\staticwebassets\PizzaStore.StaticWebAssets.xml
+C:\Users\dotro\OneDrive\Documents\GitHub\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csprojAssemblyReference.cache
+C:\Users\dotro\OneDrive\Documents\GitHub\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\dotro\OneDrive\Documents\GitHub\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\dotro\OneDrive\Documents\GitHub\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\dotro\OneDrive\Documents\GitHub\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dotro\OneDrive\Documents\GitHub\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.RazorAssemblyInfo.cache
+C:\Users\dotro\OneDrive\Documents\GitHub\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.RazorAssemblyInfo.cs

@@ -6082,19 +6082,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LEGION\\.nuget\\packages\\": {}
+    "C:\\Users\\dotro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LEGION\\source\\repos\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
+      "projectUniqueName": "C:\\Users\\dotro\\OneDrive\\Documents\\GitHub\\PizzaStore\\PizzaStore.csproj",
       "projectName": "PizzaStore",
-      "projectPath": "C:\\Users\\LEGION\\source\\repos\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
-      "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LEGION\\source\\repos\\PizzaStore\\PizzaStore\\obj\\",
+      "projectPath": "C:\\Users\\dotro\\OneDrive\\Documents\\GitHub\\PizzaStore\\PizzaStore.csproj",
+      "packagesPath": "C:\\Users\\dotro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dotro\\OneDrive\\Documents\\GitHub\\PizzaStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dotro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6155,7 +6155,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
