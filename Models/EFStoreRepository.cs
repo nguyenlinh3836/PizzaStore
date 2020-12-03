@@ -15,5 +15,6 @@ namespace PizzaStore.Models
         }
 
         public IQueryable<Product> Products => context.Products;
+        public IQueryable<Size> Sizes => context.Sizes;
     }
 }

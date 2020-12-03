@@ -29,7 +29,7 @@ namespace PizzaStore
             services.AddDbContext<StoreDbContext>(opts =>
             {
                 opts.UseSqlServer(
-                    Configuration["ConnectionStrings:eshopConnection"]
+                    Configuration["ConnectionStrings:PizzaStoreConnection"]
                     );
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
