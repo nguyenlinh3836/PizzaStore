@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace PizzaStore.Models
 {
-    public class IStoreRepository
+    public interface IStoreRepository
     {
         IQueryable<Product> Products { get; }
+        IQueryable<Size>Sizes { get; }
     }
 }

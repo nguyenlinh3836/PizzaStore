@@ -9,10 +9,11 @@ namespace PizzaStore.Models
     public class Size
     {
         public int SizeId { get; set; }
-        public string Name { get; set; }
-
-      
+        public string Name { get; set; }      
+        
+        [Column(TypeName = "decimal(8,2)")]
+        public decimal Price { get; set; }
         public long ProductId { get; set; }
-        public virtual ICollection<Product> Products { get; set; }
+        public virtual Product Product { get; set; }
     }
 }
