@@ -11,7 +11,7 @@ namespace PizzaStore.Models
 
         }
 
-        public DbSet<Product> Products { get; set; }
+        public DbSet<Product> Products { get; internal set; }
         public DbSet<Size> Sizes { get; set; }       
     }
 }
